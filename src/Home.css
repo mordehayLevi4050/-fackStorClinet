@@ -1,0 +1,31 @@
+body{
+  
+  background-color: azure;
+  text-align: center;
+}
+
+.h1 {
+  text-align: center;
+  color: chocolate;
+  background-color: rgba(95, 158, 160, 0.651);
+  padding: 40px;
+  border: 2px solid yellowgreen;
+  font-size: 25px;
+  box-shadow:  7px 7px 13px 0px green;
+  position: sticky;
+  top: 0
+
+  
+}
+
+h1{
+  margin: 0px;
+}
+
+.home{
+  display: flex;
+  margin: auto
+  ;
+  flex-wrap: wrap;
+
+}
