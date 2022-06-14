@@ -1,0 +1,8 @@
+.cart{
+    border: 3px solid  black;
+    float: left;
+    min-width: 250px;
+    margin: 7px;
+    margin-top: 17px;
+    min-height: 350px
+}

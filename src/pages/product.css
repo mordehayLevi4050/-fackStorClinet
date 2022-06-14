@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+.product h1{
+
+    font-size: 35px;
+}
+.product{
+    text-align: center;
+    max-width: 750px;
+    
+    margin: auto;
+}
+.imgProduct{
+
+    height: 400px;
+    width: 400px;
+}
+
+.buttonProduct{
+    width: 364px;
+    height: 60px;
+    display: block;
+    /* position: absolute; */
+    left: 320px;
+    font-size: 40px;
+    background-color: rgba(0, 0, 255, 0.333);
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: auto;
+}
